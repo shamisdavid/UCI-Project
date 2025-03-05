@@ -50,3 +50,22 @@ The attributes of this data set include:
 
 3. Coupon attributes
     - time before it expires: 2 hours or one day
+  
+
+Groups Defined
+
+Group 1: Drivers who go to bars more than once a month, have non-kids as riders, and are not widowed.
+
+Group 2: Drivers who go to bars more than once a month and are younger than 30.
+
+Group 3: Drivers who go to low-cost restaurants more than 4 times a month and make less than $50,000.
+
+Key Findings
+
+Group 1: The acceptance rate for drivers who go to bars more than once a month, have non-kid passengers, and are not widowed.
+
+Group 2: The acceptance rate for drivers who go to bars more than once a month and are younger than 30.
+
+Group 3: Drivers acceptance rate that eat at low-price restaurants more than 4 times a month with an income less than $50,000.
+
+
